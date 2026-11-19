@@ -1,0 +1,1 @@
+{"name":"steam-discounts","version":"1.0.0","private":true,"type":"module","scripts":{"build":"node prepare.mjs"},"engines":{"node":">=22"}}

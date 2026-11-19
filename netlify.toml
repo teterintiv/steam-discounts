@@ -1,0 +1,13 @@
+[build]
+command = "node prepare.mjs"
+publish = "public"
+[build.environment]
+NODE_VERSION = "22"
+[functions]
+directory = "netlify/functions"
+node_bundler = "esbuild"
+[[redirects]]
+from = "/api/sales"
+to = "/.netlify/functions/api"
+status = 200
+force = true

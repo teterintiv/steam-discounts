@@ -1,0 +1,14 @@
+[
+ {"code":"kz","name":"Казахстан","currency":"KZT"},
+ {"code":"ru","name":"Россия","currency":"RUB"},
+ {"code":"ua","name":"Украина","currency":"UAH"},
+ {"code":"by","name":"Беларусь","currency":"USD"},
+ {"code":"am","name":"Армения","currency":"USD"},
+ {"code":"az","name":"Азербайджан","currency":"USD"},
+ {"code":"ge","name":"Грузия","currency":"USD"},
+ {"code":"kg","name":"Кыргызстан","currency":"USD"},
+ {"code":"md","name":"Молдова","currency":"USD"},
+ {"code":"tj","name":"Таджикистан","currency":"USD"},
+ {"code":"tm","name":"Туркменистан","currency":"USD"},
+ {"code":"uz","name":"Узбекистан","currency":"USD"}
+]
