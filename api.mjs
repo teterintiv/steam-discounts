@@ -1,4 +1,4 @@
-import worker from './server.mjs';
+import worker from '../../server.mjs';
 export async function handler(event){
  const url=new URL(event.rawUrl||'https://example.invalid/api/sales');
  url.pathname='/api/sales';
